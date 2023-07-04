@@ -1,0 +1,2 @@
+# wolf-killer
+Wolf killer!
